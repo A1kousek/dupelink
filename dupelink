@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/A1kousek/dupe/main/dupescript
+loadstring(game:HttpGet("https://raw.githubusercontent.com/A1kousek/dupe/main/dupescript"))()
